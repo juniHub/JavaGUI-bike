@@ -62,7 +62,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Clock](https://res.cloudinary.com/dafolrlpj/image/upload/v1621774022/gallery/idp2mmafp2dgrfpnyaqm.gif)
+![Bike](https://res.cloudinary.com/dafolrlpj/image/upload/v1621774478/gallery/vtmyuheadhmtfbydl4ms.png)
 
 
 
