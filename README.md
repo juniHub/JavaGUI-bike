@@ -136,8 +136,8 @@ Project Link: [Java GUI Bike](https://github.com/juniHub/JavaGUI-bike)
 [forks-shield]: https://img.shields.io/github/forks/juniHub/JavaGUI-bike.svg?style=for-the-badge
 [forks-url]: https://github.com/juniHub/JavaGUI-bike/network/members
 [stars-shield]: https://img.shields.io/github/stars/juniHub/JavaGUI-bike.svg?style=for-the-badge
-[stars-url]: https://github.comjuniHub/JavaGUI-bike/stargazers
+[stars-url]: https://github.com/juniHub/JavaGUI-bike/stargazers
 [issues-shield]: https://img.shields.io/github/issues/juniHub/JavaGUI-bike.svg?style=for-the-badge
-[issues-url]: https://github.com/gjuniHub/JavaGUI-bike/issues
+[issues-url]: https://github.com/juniHub/JavaGUI-bike/issues
 [license-shield]: https://img.shields.io/github/license/juniHub/JavaGUI-bike.svg?style=for-the-badge
 [license-url]: https://github.com/juniHub/JavaGUI-bike/blob/master/LICENSE.txt
