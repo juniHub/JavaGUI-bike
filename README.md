@@ -97,7 +97,7 @@ IDE I am using for this project as listed below:
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/juniHub/JavaGUI-clock/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/juniHub/JavaGUI-bike/issues) for a list of proposed features (and known issues).
 
 
 
